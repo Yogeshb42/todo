@@ -1,0 +1,10 @@
+blinker
+distlib
+Flask
+gunicorn
+mysql
+mysql-connector
+mysql-connector-python
+mysqlclient
+virtualenv
+Werkzeug
