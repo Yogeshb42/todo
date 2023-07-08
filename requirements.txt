@@ -1,6 +1,7 @@
 blinker
 distlib
 Flask
+flask_sqlalchemy
 gunicorn
 mysql
 mysql-connector
